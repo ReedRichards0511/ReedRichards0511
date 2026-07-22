@@ -1,8 +1,8 @@
 <div align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Luis+Mauricio+%F0%9F%91%8B;React+Native+%7C+iOS+%2F+Android;Clean+Architecture+%26+Escalabilidad;TypeScript+%2B+Node.js+%2B+PostgreSQL;Construyendo+apps+de+alto+impacto" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Luis+Mauricio+%F0%9F%91%8B;React+Native+%7C+iOS+%2F+Android;Clean+Architecture+%26+Escalabilidad;TypeScript+%2B+Node.js+%2B+PostgreSQL;Construyendo+apps+de+alto+impacto" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mauricio+%F0%9F%91%8B;React+Native+%7C+iOS+%2F+Android;Clean+Architecture+%26+Scalability;TypeScript+%2B+Node.js+%2B+PostgreSQL;Building+high-impact+mobile+apps" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mauricio+%F0%9F%91%8B;React+Native+%7C+iOS+%2F+Android;Clean+Architecture+%26+Scalability;TypeScript+%2B+Node.js+%2B+PostgreSQL;Building+high-impact+mobile+apps" alt="Typing SVG" />
   </picture>
 
   <h3>📱 Mobile Developer &nbsp;|&nbsp; ⚛️ React Native · React · TypeScript</h3>
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-### 👋 Sobre mí
+### 👋 About Me
 
-Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móviles y web multiplataforma para clientes en **Ecuador, Chile y EE. UU.**
+I'm a **Mobile Developer** with **4+ years** building cross-platform mobile and web apps for clients in **Ecuador, Chile, and the US.**
 
-🔭 **Actualmente:** App de beneficios/recompensas en React Native + Clean Architecture (Netby-PPM) &nbsp;|&nbsp; 🌱 **Aprendiendo:** Desarrollo nativo iOS con Swift / SwiftUI &nbsp;|&nbsp; 🛠️ **Backend:** Node.js, NestJS, FastAPI + PostgreSQL / MongoDB &nbsp;|&nbsp; ⚙️ **DevOps:** Docker, Kubernetes, CI/CD &nbsp;|&nbsp; 💡 **IA:** Prompt engineering & Vibe Coding responsable
+🔭 **Currently:** Rewards app with React Native + Clean Architecture (Netby-PPM) &nbsp;|&nbsp; 🌱 **Learning:** Native iOS with Swift / SwiftUI &nbsp;|&nbsp; 🛠️ **Backend:** Node.js, NestJS, FastAPI + PostgreSQL / MongoDB &nbsp;|&nbsp; ⚙️ **DevOps:** Docker, Kubernetes, CI/CD &nbsp;|&nbsp; 💡 **AI:** Prompt engineering & responsible Vibe Coding
 
 </div>
 
@@ -33,7 +33,7 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
 
 ---
 
-## 🧰 Stack Tecnológico
+## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,26 +59,26 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">📲 Rewards App — Netby-PPM</h3>
       <p align="center">
-        App multiplataforma (iOS/Android) de beneficios/recompensas<br>
+        Cross-platform rewards/benefits app (iOS/Android)<br>
         <strong>React Native + TypeScript</strong> · Clean Architecture<br>
         Repository/Adapters/Mappers · NativeWind · Fastlane<br>
-        Jest/RNTL · CI/CD Azure Pipelines
+        Jest/RNTL · CI/CD on Azure Pipelines
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🍽️ AltivoPOS</h3>
       <p align="center">
-        Sistema POS multiplataforma para restaurantes<br>
-        <strong>Expo/React Native + TypeScript</strong> · Arquitectura modular<br>
-        Auth · Inventario · Órdenes · Pagos · Menú<br>
-        Navegación drawer/tabs
+        Cross-platform POS system for restaurants<br>
+        <strong>Expo/React Native + TypeScript</strong> · Modular architecture<br>
+        Auth · Inventory · Orders · Payments · Menu<br>
+        Drawer/tabs navigation
       </p>
     </td>
   </tr>
@@ -86,7 +86,7 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
     <td width="50%">
       <h3 align="center">🤖 KAIMAN — Kruger Corp</h3>
       <p align="center">
-        Marketplace de agentes de IA<br>
+        AI agent marketplace<br>
         <strong>React · Tailwind CSS · Shadcn UI</strong><br>
         React Query · Keycloak · Docker
       </p>
@@ -94,9 +94,9 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
     <td width="50%">
       <h3 align="center">📊 EngageIP Dashboard</h3>
       <p align="center">
-        Dashboard administrativo en tiempo real<br>
+        Real-time admin dashboard<br>
         <strong>React + WebSockets</strong><br>
-        Visualización de datos en vivo
+        Live data visualization
       </p>
     </td>
   </tr>
@@ -104,7 +104,7 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
     <td colspan="2">
       <h3 align="center">📱 ESIM Manager — AMDOCS / Kruger Corp</h3>
       <p align="center">
-        Gestión de perfiles eSIM · <strong>React Native CLI</strong> · SDK nativo Android (Kotlin) + iOS (Swift)
+        eSIM profile management · <strong>React Native CLI</strong> · Native SDK Android (Kotlin) + iOS (Swift)
       </p>
     </td>
   </tr>
@@ -125,40 +125,38 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReedRichards0511&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ---
 
-## 🎮 Fuera del Código
+## 🎮 Off the Clock
 
 <p align="center">
-  Cuando no estoy codeando, me encontrarás...
+  When I'm not coding, you'll find me...
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Call_of_Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white" />
   <img src="https://img.shields.io/badge/FPS_Shooters-FF4500?style=for-the-badge&logo=battledotnet&logoColor=white" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🎸_Guitarra-E44D26?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎻_Violín-8B4513?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎸_Guitar-E44D26?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎻_Violin-8B4513?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 <table align="center">
   <tr>
     <td align="center">🎓</td>
-    <td><strong>DevTalles</strong> — React Native Expo, Vibe Coding, Ingeniería de Prompts</td>
+    <td><strong>DevTalles</strong> — React Native Expo, Vibe Coding, Prompt Engineering</td>
   </tr>
   <tr>
     <td align="center">🍎</td>
-    <td><strong>Netzun</strong> — Swift para desarrolladores iOS (básico e intermedio)</td>
+    <td><strong>Netzun</strong> — Swift for iOS Developers (Beginner & Intermediate)</td>
   </tr>
   <tr>
     <td align="center">📚</td>
-    <td><strong>Udemy / Cisco</strong> — JS/TS, Python, React de cero a experto</td>
+    <td><strong>Udemy / Cisco</strong> — JS/TS, Python, React from Zero to Expert</td>
   </tr>
 </table>
 
@@ -168,9 +166,6 @@ Soy **Mobile Developer** con más de **4 años** construyendo aplicaciones móvi
 
 <br>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br><br>
-  <samp>«Siempre hay una solución. Solo hay que encontrarla.» — <strong>Reed Richards</strong></samp>
+  <samp>«There's always a solution. You just have to find it.» — <strong>Reed Richards</strong></samp>
 </div>
 <br>
